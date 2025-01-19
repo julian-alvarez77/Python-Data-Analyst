@@ -10,6 +10,7 @@ from urllib.request import urlopen
 from PIL import Image
 from babel.numbers import format_currency
 from func import DataAnalyzer, BrazilMapPlotter
+from setuptools import distutils
 
 sns.set(style='dark')
 
